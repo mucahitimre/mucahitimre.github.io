@@ -90,7 +90,7 @@
   });
 
   var step6 = step({
-    cmd: 'coding movie_watching games',
+    cmd: 'coding movie_watching games reading',
     cls: 'result line'
   });
 
